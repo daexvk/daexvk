@@ -61,6 +61,7 @@
 
 - Network Advisor 2 _(Jul 2024)_
 - Engineer Information Processing _(Jun 2025)_
+- SQL Developer _(Sep 2025)_
 <br>
 
 ## 🛠️ Tech Stacks
