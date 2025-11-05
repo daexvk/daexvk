@@ -88,7 +88,7 @@
 
 ## 🏅 Stats
 <div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=TrioDW&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
+    <img src="https://github-readme-stats.vercel.app/api?username=daexvk&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdu5233"/>
 </div>
 
