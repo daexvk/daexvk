@@ -4,7 +4,7 @@
 ## 🧑‍💻 Contact me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/%EA%B9%80%EB%8C%80%EC%9A%B1-undefined-5a3ab2353/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/%EB%8C%80%EC%9A%B1-%EA%B9%80-5a3ab2353/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/daexvk/"><img src="https://img.shields.io/badge/daexvk-000000?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
   <br>
